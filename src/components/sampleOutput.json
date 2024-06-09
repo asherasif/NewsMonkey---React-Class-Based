@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 31,
+    "articles": [
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "MICHAEL CASEY",
+    "title": "Demand for food delivery has skyrocketed. So have complaints about some drivers - The Associated Press",
+    "description": "Since the COVID-19 pandemic, demand for food delivered fast has skyrocketed. But not everyone is happy about it. Big cities in the U.S. are getting fed up with food delivery drivers on scooters, motorcycles and mopeds who work for such services as DoorDash an…",
+    "url": "https://apnews.com/article/delivery-drivers-food-uber-eats-grubhub-doordash-e35b5667cb7f2140bdc778ca52f59695",
+    "urlToImage": "https://dims.apnews.com/dims4/default/c145495/2147483647/strip/true/crop/5822x3275+0+303/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa1%2F49%2F0dac3c8652307785cfe4f63f210b%2F7218874897804e169acb9a75ca2f4644",
+    "publishedAt": "2024-06-08T04:09:00Z",
+    "content": "BOSTON (AP) A soaring demand for food delivered fast has spawned small armies of couriers and increasing alarm in big cities where scooters, motorcycles and mopeds zip in and out of traffic and hop o… [+6755 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Ian Duncan",
+    "title": "Biden administration sets 50 miles per gallon fuel economy standard for 2031 - The Washington Post",
+    "description": "The fuel savings translate into about $600 less in gas costs over the life of a new vehicle, the government projects.",
+    "url": "https://www.washingtonpost.com/business/2024/06/07/mpg-mileage-standard-biden-cars/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4QQDKKJY3ADY5Z3YOBGFR7Q4VI.jpg&w=1440",
+    "publishedAt": "2024-06-08T02:58:00Z",
+    "content": "The Biden administration tightened fuel economy standards for cars and SUVs Friday, issuing rules that officials estimate will push the average efficiency of new vehicles beyond 50 miles per gallon b… [+2862 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": null,
+    "title": "What Snowflake isn't saying about its customer data breaches - TechCrunch",
+    "description": null,
+    "url": "https://techcrunch.com/2024/06/07/snowflake-ticketmaster-lendingtree-customer-data-breach/",
+    "urlToImage": null,
+    "publishedAt": "2024-06-08T01:40:55Z",
+    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Aaron Gregg",
+    "title": "GameStop stock falls 40 percent as ‘Roaring Kitty’ hosts live stream - The Washington Post",
+    "description": "It was the first public appearance in years for Keith Gill, who this week proved once again that his slightest online move can spark dramatic swings in the prices of meme stocks.",
+    "url": "https://www.washingtonpost.com/business/2024/06/07/gamestop-roaring-kitty/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/64Z5OY5F5E7ULL7IBZKCG2DTPI_size-normalized.jpg&w=1440",
+    "publishedAt": "2024-06-08T01:29:55Z",
+    "content": "The influential investors widely anticipated live stream started 25 minutes late, with pounding drums and pictures of cats.\r\nSuddenly the music gave way to a high-pitched drone as Keith Gill, the sto… [+5697 chars]"
+    }
+    ]
+    }
